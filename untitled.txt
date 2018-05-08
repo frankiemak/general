@@ -1,0 +1,13 @@
+http://opensourcerer.diy.org/challenge/8
+
+https://guides.github.com/activities/hello-world/
+
+https://github.com/ten
+
+https://github.com/facebook
+
+https://github.com/twitter
+
+https://confluence.atlassian.com/bitbucketserver/basic-git-commands-776639767.html
+
+https://git-scm.com/doc
